@@ -80,7 +80,7 @@ The project includes Tableau-based analysis of construction cost and budget patt
 
 ### Dashboard Preview
 
-![Construction Cost Analysis Dashboard](images/dashboard.png)
+![Construction Cost Analysis Dashboard](/dashboard.jpeg)
 
 ---
 
