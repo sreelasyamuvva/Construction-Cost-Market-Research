@@ -109,7 +109,6 @@ The project includes Tableau-based analysis of construction cost and budget patt
 ├── survey/
 │   └── survey_questions.pdf
 │
-├── images/
-│   └── dashboard.png
-│
+├── dashboard.jpeg
+│  
 └── README.md
